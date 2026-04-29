@@ -28,4 +28,4 @@ The project uses Docker to manage the database environment.
 4. Run the application via IntelliJ or `./mvnw spring-boot:run`
 
 ---
-Developed by **Jotadevs**
+Developed by **Jota devs**
